@@ -1,7 +1,7 @@
 {
   "name": "kensa",
-  "version": "0.0.3",
-  "description": "(⏳WIP - 🧪Experimental) Web GUI testing tool using computer vision techniques",
+  "version": "0.0.4",
+  "description": "[⏳WIP - 🧪Experimental] Web GUI testing tool using computer vision techniques",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
